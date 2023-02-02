@@ -1,0 +1,5 @@
+p tag = paragraph
+b tag = bold
+strong tag = bold (semantic)
+i tag = italic
+small tag = text small 
