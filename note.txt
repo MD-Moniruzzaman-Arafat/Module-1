@@ -7,3 +7,4 @@ heading tag = h1-h6.
 inline element and block element and semantic tag.
 html link anchor tag.href, target attributes. 
 image tag and attributes.online image, local image, folder image.
+list, container tag, ordered list, unordered list.
