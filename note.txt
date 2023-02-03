@@ -9,3 +9,4 @@ html link anchor tag.href, target attributes.
 image tag and attributes.online image, local image, folder image.
 list, container tag, ordered list, unordered list.
 html form input types, button, text field, select, option.
+html structure, Doctype,html,head,meta,title.
