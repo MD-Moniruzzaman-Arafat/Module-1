@@ -2,4 +2,6 @@ p tag = paragraph
 b tag = bold
 strong tag = bold (semantic)
 i tag = italic
-small tag = text small 
+small tag = text small
+heading tag = h1-h6
+inline element and block element and semantic tag 
